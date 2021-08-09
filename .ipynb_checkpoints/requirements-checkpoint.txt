@@ -1,9 +1,0 @@
-pandas
-matplotlib
-nltk
-wordcloud
-sklearn
-nltk
-gensim
-numpy
-scipy
