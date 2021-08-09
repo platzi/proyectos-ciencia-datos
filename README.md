@@ -18,6 +18,7 @@ Ricardo Daniel Alanís, Head de Data Science en Nowports
 
 * README.md - Este archivo
 * LICENSE.md - Licencia
+* .gitignore - Ignore file para el proyecto y quitar elementos no deseados
 * 12_DICIEMBRE_2020.xlsx - Archivo base para el proyecto
 * notebooks/1_limpieza_y_carga.ipynb - Notebook de preparación de datos
 * notebooks/2_exploracion.ipynb - Notebook que cubre el análisis básico de datos
